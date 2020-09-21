@@ -1,5 +1,5 @@
 # Basic-Conways-Game-of-Life
-A minimal implementation fo Conway's game of life using PyGame
+A minimal implementation of Conway's game of life using PyGame
 Made by Tzara Northcut (@Mekcnavorz)
 
 controls:
