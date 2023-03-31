@@ -1,6 +1,6 @@
 # Basic-Conways-Game-of-Life
 A minimal implementation of Conway's game of life using PyGame
-Made by Tzara Northcut (@Mekcnavorz)
+Made by T&R (@Mecknavorz)
 
 controls:
 - click anywhere to place a cell
